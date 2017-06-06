@@ -1,4 +1,4 @@
-class ElasticsearchAT17 < Formula
+class Elasticsearchat17 < Formula
   desc "Distributed search & analytics engine"
   homepage "https://www.elastic.co/products/elasticsearch"
   url "https://download.elastic.co/elasticsearch/elasticsearch/elasticsearch-1.7.6.tar.gz"
